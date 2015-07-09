@@ -1,6 +1,6 @@
 {
   "name": "chosen-bootstrap",
-  "version": "1.0.5-dev1",
+  "version": "1.0.5-dev2",
   "homepage": "https://github.com/dbtek/chosen-bootstrap",
   "authors": [
     "İsmail Demirbilek <ce.demirbilek@gmail.com>"
@@ -15,6 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "~3.3.5",
-    "chosen": "~1.4.1"
+    "chosen": "https://github.com/harvesthq/chosen/releases/download/1.4.2/chosen_v1.4.2.zip"
   }
 }
