@@ -1,6 +1,6 @@
 {
   "name": "chosen-bootstrap",
-  "version": "1.0.5-dev0",
+  "version": "1.0.5-dev1",
   "homepage": "https://github.com/dbtek/chosen-bootstrap",
   "authors": [
     "İsmail Demirbilek <ce.demirbilek@gmail.com>"
@@ -15,6 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "bootstrap": "~3.3.5",
-    "bower-chosen": "~1.4.1"
+    "chosen": "~1.4.1"
   }
 }
